@@ -1,17 +1,3 @@
-
-# Project_Pokemon_Mimikyu_TorchDetect
-
-<p align="center">
-  <img src="assets/mimikyu_pikachu_banner.png" alt="Mimikyu and Pikachu Banner" width="80%">
-</p>
-
-<p align="center">
-  <img src="assets/mimikyu_sample.jpg" alt="Mimikyu Sample" width="40%">
-  <img src="assets/pikachu_sample.jpg" alt="Pikachu Sample" width="40%">
-</p>
-
----
-
 # Project_Pokemon_Mimikyu_TorchDetect
 
 ## 📜 專案簡介
@@ -22,7 +8,6 @@ Mimikyu（日語：ミミッキュ，英語：Mimikyu）首次登場於《精靈
 - 建立可準確辨識 Mimikyu 與 Pikachu 的深度學習模型  
 - 使用 **PyTorch** 與 **TorchVision** 進行模型訓練與測試  
 - 提供易於使用的推論程式，供快速檢測圖片中的寶可夢  
-
 
 
 🚧 此專案目前施工中 🚧
