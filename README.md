@@ -1,7 +1,7 @@
 # Project_Pokemon-Mimikyu-TorchDetect
 
 <p align="center">
-  <img src="assets/mimikyu.png" alt="Mimikyu Banner" width="100%">
+  <img src="assets/mimikyu.png" alt="Mimikyu Banner" width="90%">
 </p>
 
 `Project_Pokemon-Mimikyu-TorchDetect` 是一個基於 **PyTorch** 的圖像辨識專案，專門用來辨別寶可夢 **Mimikyu** 與 **Pikachu**。  
