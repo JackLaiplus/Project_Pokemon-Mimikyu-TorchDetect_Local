@@ -10,3 +10,7 @@ Mimikyu（日語：ミミッキュ，英語：Mimikyu）首次登場於《精靈
 
 
 🚧 此專案目前施工中 🚧
+
+<p align="center">
+  <img src="assets/mimikyu.png" alt="Mimikyu Banner" width="80%">
+</p>
